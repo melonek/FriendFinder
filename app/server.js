@@ -14,7 +14,7 @@ app.use(bodyParser.json({ type: "application/vnd.api+json" }));
 app.use(express.static("app/public"));
 
 //==in this step we will be creating routing for the app==//
-require(".app/routing/apiRoutes.js")(app);
-require(".app/routing/htmlRoutes.js")(app);
+require("./routing/apiRoutes")(app);
+require("./routing/htmlRoutes")(app);
 
 app.listen(port, () => console.log("Listening on port %s", port));
