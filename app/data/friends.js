@@ -6,9 +6,9 @@ let friends = [
     scores: [5, 1, 4, 4, 5, 1, 2, 5, 4, 1]
   },
   {
-    name: "Keanu Reeves",
+    name: "Samuel Jackson",
     photo:
-      "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE5NTU2MzE2MzU1NzI0ODEx/keanu-reeves-9454211-1-402.jpg",
+      "https://m.media-amazon.com/images/M/MV5BMTQ1NTQwMTYxNl5BMl5BanBnXkFtZTYwMjA1MzY1._V1_.jpg",
     scores: [3, 2, 5, 4, 2, 1, 1, 2, 4, 5]
   },
   {
@@ -24,13 +24,13 @@ let friends = [
     scores: [2, 4, 1, 3, 4, 1, 3, 4, 1, 2]
   },
   {
-    name: "Keanu Reeves",
+    name: "Sylvester Stallone",
     photo:
       "https://www.grittv.com/wp-content/uploads/2014/09/Sylvester-Stallone-Expendables-a.jpg",
     scores: [5, 1, 2, 5, 4, 2, 2, 2, 1, 5]
   },
   {
-    name: "Sylvester Stallone",
+    name: "Keanu Reeves",
     photo:
       "https://www.biography.com/.image/ar_1:1%2Cc_fill%2Ccs_srgb%2Cg_face%2Cq_auto:good%2Cw_300/MTE5NTU2MzE2MzU1NzI0ODEx/keanu-reeves-9454211-1-402.jpg",
     scores: [3, 4, 5, 1, 1, 2, 5, 4, 4, 1]
