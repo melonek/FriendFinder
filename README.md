@@ -9,11 +9,11 @@ This app was made for the purpose of finding new friends. Take few minutes to fi
 
 ## Usage of the app:
 
-Step 1: Head to our website @ https://friendfinderappka.herokuapp.com/
-Step 2: Once directed to the home page click on "Got to Survey" button.
-Step 3: You will be directed to the Survey and presented with 10 simple questions which will allow us to find a match!
-Step 4: The score based on your answers will be closely compared to other scores in our database.
-Step 5: The match is presented to you!
+##Step 1: Head to our website @ https://friendfinderappka.herokuapp.com/
+##Step 2: Once directed to the home page click on "Got to Survey" button.
+##Step 3: You will be directed to the Survey and presented with 10 simple questions which will allow us to find a match!
+##Step 4: The score based on your answers will be closely compared to other scores in our database.
+##Step 5: The match is presented to you!
 
 ## Requirements:
 
