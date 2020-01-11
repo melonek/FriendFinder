@@ -1,11 +1,28 @@
-# FriendFinder
-The deployed version can be found at the Heroku link:
-
-
-This app was made for the purpose of finding new friends. Take few minutes to fill up the survey and find out who is the perfect match!
+# FriendFinder<br>
+app was made for the purpose of finding new friends. Take few minutes to fill up the survey and find out who is the perfect match!
 
 ## Live Link
  - https://friendfinderappka.herokuapp.com/
+
+## Local Environment Setup
+To use Eat-Da-Burger web application application from your local environment, you must accomplish the following steps below:
+
+**Step 1 - Clone my repo using the command line below.**
+```
+git clone https://github.com/melonek/FriendFinder.git
+```
+**Step 2 - Change directory to the cloned repo folder.**
+```
+cd FriendFinder
+```
+**Step 3 - Install all required NPM packages.**
+```
+npm install
+```
+**Step 4 - Start the application server using the command line below**
+```
+node server.js
+```
 
 ## Usage of the app:
 
